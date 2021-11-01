@@ -28,12 +28,12 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vincjo/svelte-simple-datatables.git"
+    "url": "git+https://github.com/Lattay/svelte-simple-datatables.git"
   },
   "author": "vincjo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vincjo/svelte-simple-datatables/issues"
+    "url": "https://github.com/Lattay/svelte-simple-datatables/issues"
   },
   "homepage": "https://vincjo.fr/svelte-simple-datatables"
 }
